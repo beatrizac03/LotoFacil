@@ -15,6 +15,7 @@ Possui 3 tipos de aposta:
 <br>
 <b>JDK: Oracle OpenJDK version 21.0.2</b>
 <br>
+<br>
 <b>Bibliotecas Utilizadas: </b>
 
 - Random e Scanner
