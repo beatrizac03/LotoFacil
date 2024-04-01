@@ -12,7 +12,7 @@ Possui 3 tipos de aposta:
 <li>Apostar de 0 a 100</li>
 <li>Apostar de A à Z</li>
 <li>Apostar em par ou ímpar</li>
-
+<br>
 <b>JDK: Oracle OpenJDK version 21.0.2</b>
 
 <b>Bibliotecas Utilizadas: </b>
